@@ -1,3 +1,6 @@
 [submodule "Plugins/ComboGraph"]
 	path = Plugins/ComboGraph
 	url = https://github.com/mklabs/ue-combo-graph
+[submodule "Plugins/ComboGraphTests"]
+	path = Plugins/ComboGraphTests
+	url = https://github.com/mklabs/ComboGraphTests.git
