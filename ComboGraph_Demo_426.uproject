@@ -19,6 +19,11 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ComboGraph",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/..."
 		}
 	]
 }
