@@ -97,3 +97,4 @@ Scripts/
 
 # Plugin we don't want to include in the repo
 Plugins/ALS-Community-4.20.1
+Plugins/graphformatter
