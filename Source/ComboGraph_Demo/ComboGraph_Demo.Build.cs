@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class ComboGraph_Demo_426 : ModuleRules
+public class ComboGraph_Demo : ModuleRules
 {
-	public ComboGraph_Demo_426(ReadOnlyTargetRules Target) : base(Target)
+	public ComboGraph_Demo(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

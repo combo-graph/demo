@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "ComboGraph_Demo_426GameModeBase.generated.h"
+#include "ComboGraph_DemoGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class COMBOGRAPH_DEMO_426_API AComboGraph_Demo_426GameModeBase : public AGameModeBase
+class COMBOGRAPH_DEMO_API AComboGraph_DemoGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	

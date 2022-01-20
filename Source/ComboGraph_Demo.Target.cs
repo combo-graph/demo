@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class ComboGraph_Demo_426Target : TargetRules
+public class ComboGraph_DemoTarget : TargetRules
 {
-	public ComboGraph_Demo_426Target( TargetInfo Target) : base(Target)
+	public ComboGraph_DemoTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "ComboGraph_Demo_426" } );
+		ExtraModuleNames.AddRange( new string[] { "ComboGraph_Demo" } );
 	}
 }
