@@ -4,3 +4,6 @@
 [submodule "Plugins/ComboGraphTests"]
 	path = Plugins/ComboGraphTests
 	url = https://github.com/mklabs/ComboGraphTests.git
+[submodule "Plugins/Paragon_Anims_Mannequin"]
+	path = Plugins/Paragon_Anims_Mannequin
+	url = https://github.com/mklabs/UE4_Paragon_Anims_on_Mannequin.git
