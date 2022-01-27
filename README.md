@@ -5,7 +5,9 @@
 ## Download links
 
 - [Packaged build](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo_Build.zip)
-- [Project](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo_uproject.zip) - requires Combo Graph plugin installed in Engine from marketplace
+- Project (requires Combo Graph plugin installed in Engine from marketplace)
+  - [4.26](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo_uproject.zip)
+  - [4.27](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo_uproject_4.27.zip)
 
 If you wish to clone the repo instead, make sure you clone the submodules as well with (combo graph plugin module itself won't initialize though, still needs to be installed in engine):
 
