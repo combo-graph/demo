@@ -4,7 +4,7 @@
 
 ## Download links
 
-- [Packaged build](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo.zip)
+- [Packaged build](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo_Build.zip)
 - [Project](https://github.com/combo-graph/demo/releases/latest/download/ComboGraph_Demo_uproject.zip) - requires Combo Graph plugin installed in Engine from marketplace
 
 ## Demo Tour
