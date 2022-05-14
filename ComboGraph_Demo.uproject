@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -44,12 +44,11 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c4f13f7fc2c048d8ad4985ecfbf4f6c6"
 		},
 		{
-			"Name": "BlueprintGraphScreenshot",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6221f79da85d4ea083b92382daa28e14"
+			"Name": "GameFeatures",
+			"Enabled": true
 		},
 		{
-			"Name": "XeluIcons",
+			"Name": "ModularGameplay",
 			"Enabled": true
 		}
 	]
