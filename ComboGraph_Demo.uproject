@@ -59,6 +59,14 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "XeluIcons",
+			"Enabled": true
+		},
+		{
+			"Name": "ComboGraphTests",
+			"Enabled": true
 		}
 	]
 }
