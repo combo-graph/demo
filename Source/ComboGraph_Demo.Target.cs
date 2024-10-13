@@ -8,7 +8,7 @@ public class ComboGraph_DemoTarget : TargetRules
 	public ComboGraph_DemoTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 		ExtraModuleNames.AddRange( new string[] { "ComboGraph_Demo" } );
 	}
 }
