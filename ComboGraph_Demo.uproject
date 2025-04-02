@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -15,33 +15,13 @@
 	],
 	"Plugins": [
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "ComboGraph",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0211d0b7c514480c8e6ef338999d63c2"
 		},
 		{
-			"Name": "AutoSizeComments",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
-		},
-		{
-			"Name": "GraphFormatter",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
-		},
-		{
-			"Name": "AGRPRO",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c4f13f7fc2c048d8ad4985ecfbf4f6c6"
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		},
 		{
 			"Name": "GameFeatures",
@@ -50,15 +30,6 @@
 		{
 			"Name": "ModularGameplay",
 			"Enabled": true
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
 		},
 		{
 			"Name": "XeluIcons",
