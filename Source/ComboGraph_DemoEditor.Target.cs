@@ -9,6 +9,11 @@ public class ComboGraph_DemoEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.Latest;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 		ExtraModuleNames.AddRange( new string[] { "ComboGraph_Demo" } );
+		
+		bUseUnityBuild = false;  
+		bUseSharedPCHs = false;  
+		bUsePCHFiles = false;
 	}
 }

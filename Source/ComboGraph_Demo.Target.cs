@@ -10,5 +10,9 @@ public class ComboGraph_DemoTarget : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.Latest;
 		ExtraModuleNames.AddRange( new string[] { "ComboGraph_Demo" } );
+		
+		bUseUnityBuild = false;  
+		bUseSharedPCHs = false;  
+		bUsePCHFiles = false;
 	}
 }
